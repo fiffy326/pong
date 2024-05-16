@@ -1,10 +1,9 @@
-# Pong Clone
+# Pong
 
-I was bored this weekend, so I wrote a Pong clone in C.
-
-You must have SDL2 installed to compile the game.
+Clone of the 1972 Atari video game, written in C using SDL2.
 
 ## Controls
+
 - W = left paddle up
 - S = left paddle down
 - UP = right paddle up
