@@ -14,8 +14,8 @@ Clone of the 1972 Atari video game, written in C using SDL2.
 ## Installation
 
 ```bash
-git clone https://github.com/fiffy326/pong
-cd primal
+git clone https://github.com/fiffy326/pong.c
+cd pong.c
 make
 sudo make install
 ```
